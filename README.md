@@ -1,4 +1,4 @@
-# Vitor-
+# Vitor ferraz
 
 Escolhi o caso do **sistema de recrutamento da Amazon**, que foi descontinuado após identificar **viés contra candidatas mulheres**. O algoritmo priorizava currículos masculinos, reproduzindo padrões históricos de contratação.
 
